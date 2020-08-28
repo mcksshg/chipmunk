@@ -1,4 +1,4 @@
-require_relative 'chipmunk.so'
+require_relative 'chipmunk/chipmunk.so'
 require_relative 'version'
 
 module CP
